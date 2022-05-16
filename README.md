@@ -3,15 +3,14 @@
 ## 第5章
 - [x] Use case diagram
 - [x] Activity diagram
-  - [ ] 下肢訓練之活動圖
-- [ ] Analysis class diagram
-- [ ] Analysis object diagram
+- [x] Analysis class diagram
+  - [ ] Analysis object diagram
 
 ## 第6章
-- [ ] Sequential diagram
-- [ ] Communication diagram
-- [ ] Design class diagram
-- [ ] Design object diagram
+- [x] Sequential diagram
+- [x] Communication diagram
+- [x] Design class diagram
+  - [ ] Design object diagram
 
 ## 第7章
 - [ ] Deployment diagram
