@@ -13,11 +13,11 @@
   - [ ] Design object diagram
 
 ## 第7章
-- [ ] Deployment diagram
+- [ ] Deployment diagram 有基本檔還需調整
 - [ ] Package diagram
 - [ ] Component diagram
 - [ ] State machine
 - [ ] Timing diagram
 
 ## 第8章
-- [ ] 資料庫關聯表 
+- [-] 資料庫關聯表 需微調
