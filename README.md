@@ -10,14 +10,14 @@
 - [x] Sequential diagram
 - [x] Communication diagram
 - [x] Design class diagram
-  - [ ] Design object diagram
+  - [] Design object diagram
 
 ## 第7章
-- [ ] Deployment diagram 有基本檔還需調整
-- [ ] Package diagram
+- [x] Deployment diagram
+- [x] Package diagram
 - [ ] Component diagram
 - [ ] State machine
-- [ ] Timing diagram
+  - [ ] Timing diagram
 
 ## 第8章
-- [-] 資料庫關聯表 需微調
+- [x] 資料庫關聯表 需微調
