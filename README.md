@@ -15,8 +15,8 @@
 ## 第7章
 - [x] Deployment diagram
 - [x] Package diagram
-- [ ] Component diagram
-- [ ] State machine
+- [x] Component diagram
+- [x] State machine
   - [ ] Timing diagram
 
 ## 第8章
