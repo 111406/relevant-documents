@@ -10,7 +10,7 @@
 - [x] Sequential diagram
 - [x] Communication diagram
 - [x] Design class diagram
-  - [] Design object diagram
+  - [ ] Design object diagram
 
 ## 第7章
 - [x] Deployment diagram
@@ -20,4 +20,4 @@
   - [ ] Timing diagram
 
 ## 第8章
-- [x] 資料庫關聯表 需微調
+- [x] 資料庫關聯表 
