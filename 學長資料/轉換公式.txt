@@ -1,0 +1,5 @@
+_accelerometerValues = <double>[event.x, event.y, event.z];
+pitch = 180 *atan(event.x / sqrt(event.y * event.y + event.z * event.z)) / PI;
+roll = 180 *atan(event.y / sqrt(event.x * event.x + event.z * event.z)) / PI;
+yaw = 180 *atan(event.z / sqrt(event.x * event.x + event.y * event.y)) / PI;
+參考https://engineering.stackexchange.com/questions/3348/calculating-pitch-yaw-and-roll-from-mag-acc-and-gyro-data
